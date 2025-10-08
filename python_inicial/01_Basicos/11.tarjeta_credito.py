@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 Crea un script que reciba como input un número de tarjeta de crédito e imprima por pantalla todos
 los caracteres en forma de asterisco salvo los últimos cuatro. Si por ejemplo el número de tarjeta

@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 Crea un script que muestre por pantalla el resultado de la siguiente operación aritmética:
  (3+2)

@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 Una compañía de automóviles vende tres tipos de coche: RBM Serie 1, RMB Serie plus, RBM todoterreno.
 Cada uno de estos coches tiene un precio de venta y el vendedor recibe una
