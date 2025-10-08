@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 En la competición de skeleton de las olimpiadas de invierno hay tres finalistas. El cronómetro mide
 los siguientes tiempos:

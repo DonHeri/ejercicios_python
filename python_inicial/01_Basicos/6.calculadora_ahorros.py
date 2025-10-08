@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 Ahora que ya tienes soltura con los fundamentos de Python toca poner tus conocimientos en
 práctica en un proyecto más extenso. El objetivo es crear un programa con el que puedas calcular

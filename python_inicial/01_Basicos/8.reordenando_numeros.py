@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 Crea un script en el que el usuario introduzca un número de más de una cifra. El script debe
 imprimir los componentes del número uno a uno por pantalla. Por ejemplo si el número introducido

@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 MENSAJE DE BIENVENIDA:
 El objetivo de este ejercicio es que crees un script que dado un nombre de usuario le de la

@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 Una casa de cambios necesita construir un programa que dada una cantidad de euros introducida
 por el usuario de el resultante en dólares.

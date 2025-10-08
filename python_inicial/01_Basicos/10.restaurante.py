@@ -1,3 +1,5 @@
+# Ejercicios de: Academia ConquerBlocks
+# Realizados por: Heriberto Rojas
 """
 En un restaurante el menú consta de las siguientes opciones:
 Ensalada mixta   ————————   12 EU
